@@ -410,9 +410,9 @@
 }
 
 .email{
-    width: 600px;
-    padding-left: 100px;
-    padding-right: 100px;
+    width: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
     height: 50px;
     border-radius: 10px;
     margin-left: 80px;
@@ -437,13 +437,13 @@
 
 .d1{
     margin-left: 300px;
-    width: 200px;
+    width: 150px;
     border-radius: 20px;
 }
 
 .d2{
     margin-left: 10px;
-    width: 200px;
+    width: 150px;
     border-radius: 20px;  
 }
 
