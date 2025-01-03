@@ -36,7 +36,7 @@
  .searchicon{
     position: absolute;
     width: 25px;
-    margin-left: 1300px;
+    margin-left: 900px;
     margin-top: 20px;
  }
 
@@ -133,7 +133,7 @@
     border-radius: 50px;
     margin-left: 130px;
     padding-left: 60px;
-    padding-right: 130px;
+    padding-right: 170px;
     padding-top: 10px;
     padding-bottom: 10px;
     border: rgb(211, 235, 211);
@@ -243,11 +243,11 @@
 }
 
 .detail{
-    width: 700px;
+    width: 500px;
     border: 2px solid black;
     margin-left: 130px;
-    padding-left: 50px;
-    font-size: 25px;
+    padding-left: 30px;
+    font-size: 20px;
     background-color: rgb(243, 234, 234);
     border: none;
     border-radius: 30px;
@@ -256,11 +256,11 @@
 }
 
 .detail2{
-    width: 700px;
+    width: 500px;
     border: 2px solid black;
     margin-left: 130px;
-    padding-left: 50px;
-    font-size: 25px;
+    padding-left: 30px;
+    font-size: 20px;
     background-color: rgb(243, 234, 234);
     border: none;
     border-radius: 30px;
@@ -269,11 +269,11 @@
 }
 
 .detail3{
-    width: 700px;
+    width: 500px;
     border: 2px solid black;
     margin-left: 130px;
-    padding-left: 50px;
-    font-size: 25px;
+    padding-left: 30px;
+    font-size: 20px;
     background-color: rgb(243, 234, 234);
     border: none;
     border-radius: 30px;
